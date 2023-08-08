@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "969035997452",
+    "project_id": "socioapp1-d9469",
+    "storage_bucket": "socioapp1-d9469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969035997452:android:9b5049186c3afe2502e929",
+        "android_client_info": {
+          "package_name": "com.codingstuff.instag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969035997452-ee93gohse6n7seasu230ns76qliq09f0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingstuff.instag",
+            "certificate_hash": "afab12cf0f846958991296618dc1c74ef7008a4c"
+          }
+        },
+        {
+          "client_id": "969035997452-oef7gdvidhe345prbqvmdunkqrm4bhal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4xGIciEuoOq3OqnauGnW_ptib0rMhEbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969035997452-oef7gdvidhe345prbqvmdunkqrm4bhal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
